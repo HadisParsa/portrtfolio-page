@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+*{
+  font-family: 'Handlee', cursive;
+}
+
+header {
+  position: fixed;
+  top:0;
+  left:0;
+  right: 0;
+  padding: 20px;
+  background-color: #000f7c;
+  z-index: 9;
+  }
+
+  header h1 {
+    display: inline-block;
+    font-size: 35px;
+    color: #faf0e0;
+    line-height: normal; 
+   }
+
+  header ul {
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+    list-style-type: none;
+  }
+  header li {
+    display: inline-block;
+    margin-left: 25px;
+  }
+
+a{
+  color: darkkhaki;
+}
+
+.cool-subtitle {
+  padding-top: 40px;
+  text-align: center;
+}
+.cool {
+  font-size: 28px;
+}
+
+.cool, .project5 , .card { 
+background-color: lemonchiffon;
+padding: 10px 15px;
+  text-align: center;
+  position: absolute;
+}
+
+
+  main h1 { 
+     font-size: 35px;
+    color: #0b00dc;
+  }
+
+ .main h1{ 
+  border-right: solid 4px cornflowerblue;
+ }
+ footer ul {
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
+  list-style-type: none;
+}
+footer li {
+  display: inline-block;
+  margin-left: 25px;
+} 
+
+.work1 {
+  display: flex;
+}
+.work h1{
+  text-align: end;
+  flex: 1;
+  padding-right: 20px;
+}
+.section5 {
+  flex: 3;
+  padding-left: 20px;
+}
+
+
