@@ -31,6 +31,8 @@ The web page is created by HTML and stlyled by advance Css.
 
 ![The portfolio page in full screen](./assets/images/img8.jpg)![The portfolio page in full screen1](./assets/images/img9.jpg)![The portfolio page in phone](./assets/images/img7.jpg)
 
+* [Click here to see the page](https://hadisparsa.github.io/portrtfolio-page/)
+
 ## Key Topics (Resources)
 
 The following toping are useful resurses to create a sample page:
