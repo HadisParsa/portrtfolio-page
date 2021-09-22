@@ -1,6 +1,6 @@
 # Portfolio-page
+
 ## Introduction  
-This page is a portfolio of work samples. 
 I was tasked to crate a page that users could review samples of my works.
 Creating this page improve my HTML and advanced CSS coding knowledge.
 ```
@@ -13,26 +13,52 @@ The UI scrolls to the corresponding section if you click one of the links in the
 
 The UI scrolls to a section with titled images of the developer's applications by clicking on the link to the section about their work.
 
+By presenting with the developer's one of the applications, that application's image will be smaler in size than the others.
 
-By presenting with the developer's one of the applications, that application's image will be larger in size than the others.
-
-Click on the images of the applications will take to that deployed application
+Click on the images of the applications will take to that deployed application.
 
 The page or view the site on various screens and devices is presented with a responsive layout that adapts to viewport.
 
 ```
-This task helped me to expand my HTML and advance CSS .
-
-## Table of Contents 
-
-- [Installation](#installation)
-- [Usage](#usage)
-
+This task helped me to expand my HTML and advance CSS.
 
 
 ## Installation
-This page is created from scrtch. I build a portfolio page ,which i can add to as my followig learning progresses. 
-The web page is created by HTML and stlyled by Css.
+this portfolio page is created from scrtch , and more project will be add to as followig learning progresses. 
+The web page is created by HTML and stlyled by advance Css.
 
-## Usage
+## Page presented view in small and big screen:
 
+![The portfolio page in full screen](./assets/images/img8.jpg)![The portfolio page in full screen1](./assets/images/img9.jpg)![The portfolio page in phone](./assets/images/img7.jpg)
+
+## Key Topics (Resources)
+
+The following toping are useful resurses to create a sample page:
+
+* [Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+* [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+
+* [CSS resets](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+
+* [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+* [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+* [Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+
+* [Typography](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+
+* [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
+* [Advanced box styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto/create_fancy_boxes)
+
+* [Advanced CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)
+
+* [Wireframes](https://en.wikipedia.org/wiki/Website_wireframe)
+
+---
+
+© 2021 
