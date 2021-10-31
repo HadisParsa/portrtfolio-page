@@ -28,7 +28,7 @@ this portfolio page is created from scrtch , and more project will be add to as 
 The web page is created by HTML and stlyled by advance Css.
 
 ## Link
-You can experience the deployed project here: [Make with music URL ](https://hadisparsa.github.io/portrtfolio-page/).
+You can experience the deployed project here: [Portfolio Page URL ](https://hadisparsa.github.io/portrtfolio-page/).
 
 ## Page presented view in small and big screen:
 
