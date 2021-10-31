@@ -27,11 +27,13 @@ This task helped me to expand my HTML and advance CSS.
 this portfolio page is created from scrtch , and more project will be add to as followig learning progresses. 
 The web page is created by HTML and stlyled by advance Css.
 
+## Link
+You can experience the deployed project here: [Make with music URL ](https://hadisparsa.github.io/portrtfolio-page/).
+
 ## Page presented view in small and big screen:
 
 ![The portfolio page in full screen](./assets/images/img8.jpg)![The portfolio page in full screen1](./assets/images/img9.jpg)![The portfolio page in phone](./assets/images/img7.jpg)
 
-* [Click here to see the page](https://hadisparsa.github.io/portrtfolio-page/)
 
 ## Key Topics (Resources)
 
